@@ -1,0 +1,16 @@
+.todo-item{
+  display: flex;
+    justify-content: space-around;
+    width: 300px;
+    padding: 12px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin-bottom: 23px;
+}
+.todo-input{
+  outline: none;
+  border: none;
+}
+.todo-card{
+  background: white;
+}
